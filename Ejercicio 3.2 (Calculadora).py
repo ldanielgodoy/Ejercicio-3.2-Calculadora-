@@ -43,3 +43,5 @@ def calculadora_simple (operacion, a, b):
 
 #print (calculadora_simple(f'El resultado de la {operacion} es =  {a}, {b}'))
 print (f'El resultado de {operacion} = {(calculadora_simple(operacion, a,b))}')
+
+print ('Simpre para ayudarte')
